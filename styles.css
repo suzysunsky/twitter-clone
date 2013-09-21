@@ -23,6 +23,11 @@ body {
 	width: 302px;
 }
 
+.tweet-controls{
+	display: none;
+}
+
+
 .profile-summary, .tweet-content {
 	padding: 12px;
 }
